@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+ul li{
+  font-family: "Gill Sans", sans-serif;
+  font-size: 22px;
+  list-style-type: none;
+  text-decoration: none;
+  display: inline;
+  padding-bottom: 0px:
+}
+
+.stats-bar{
+  display: inline-block;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 26px;
+  width: 100%;
+}
+
+#lives, #score{
+  /* margin: 0 0 23px 0;
+  text-align: center;
+  width: 25%; */
+}
